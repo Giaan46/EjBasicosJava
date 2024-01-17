@@ -2,7 +2,7 @@ package TpReplit;
 
 import java.util.Scanner;
 
-public class tp2Replit {
+public class NumerosPrimos {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
